@@ -27,3 +27,12 @@ Esses riscos poderão diminuir drasticamente. O aluno responsável pelo projeto 
 -   Eduardo Faria Kruger: eduardofkruger@gmail.com
 -   Alisson Vinícus Serafim: alisoonv12@gmail.com
 -   Gabriel Scarante de Lima: gsdl90987@gmail.com
+
+---
+
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/66191563/131902792-d8f92372-caa7-43ec-8b15-685aea6751e0.png" width="400px" />
+	<br/><br/>
+	<b>Um projeto do Instituto Federal do Paraná - Campus Colombo</b>
+</p>
+
