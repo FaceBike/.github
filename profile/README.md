@@ -1,16 +1,15 @@
-![Banner](https://user-images.githubusercontent.com/66191563/149811414-cc68912d-2e9e-4154-98d6-2bccee608acd.png)
+<p align="center">
+	<img src="https://user-images.githubusercontent.com/66191563/190540831-dde63f7f-57cc-4c2d-b7e2-5773c9bea9a5.png" />
+</p>
 
-## Proposta do projeto
+<p align="center">
+	<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+</p>
 
-O projeto visa influenciar a sociedade, principalmente no incentivo a atividades esportivas, tendo como objetivo a criação de um aplicativo para auxilio na prática da modalidade de ciclismo que poderá motivar mais pessoas a assumirem uma vida mais ativa e, consequentemente, saudável. Além disso, o aplicativo também poderá trazer uma maior segurança para os que já tem o ciclismo como prática constante, na medida em que juntamente com mais pessoas todos os possíveis riscos de se pedalar, tais como:
-
--   Assaltos
--   Acidentes
--   Perda de localização
--   Problemas mecânicos
--   Entre outros...
-
-Esses riscos poderão diminuir drasticamente. O aluno responsável pelo projeto será selecionado a partir do curso Técnico em Administração Integrado ao Ensino Médio, tendo a oportunidade de aplicar os conhecimentos adquiridos em sala de aula através da prática, em um projeto do estilo Startup, visando simultaneamente a inovação, o impacto social e lucro que, assim como em outras redes sociais, viria através de propagandas dentro da plataforma de aplicativos disponibilizados.
+# Facebike
+O projeto visa influenciar a sociedade, principalmente no incentivo a atividades esportivas, tendo como objetivo a criação de um aplicativo para auxilio na prática da modalidade de ciclismo que poderá motivar mais pessoas a assumirem uma vida mais ativa e, consequentemente, saudável. Além disso, o aplicativo também poderá trazer uma maior segurança para os que já tem o ciclismo como prática constante, na medida em que juntamente com mais pessoas todos os possíveis riscos de se pedalar, tais como: assaltos, acidentes, problemas mecânicos e outros.
 
 ## Integrantes do projeto
 
@@ -27,12 +26,6 @@ Esses riscos poderão diminuir drasticamente. O aluno responsável pelo projeto 
 -   Eduardo Faria Kruger: eduardofkruger@gmail.com
 -   Alisson Vinícus Serafim: alisoonv12@gmail.com
 -   Gabriel Scarante de Lima: gsdl90987@gmail.com
-
----
-## Nossos sistemas
--   [**FaceBike API**](https://github.com/FaceBike/FaceBike-API)
--   [**FaceBike App**](https://github.com/FaceBike/FaceBike-App)
--   [**FaceBike Website**](https://github.com/FaceBike/FaceBike-Website)
 
 ---
 
