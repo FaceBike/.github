@@ -32,7 +32,7 @@ O projeto visa influenciar a sociedade, principalmente no incentivo a atividades
 ---
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/66191563/131902792-d8f92372-caa7-43ec-8b15-685aea6751e0.png" width="400px" />
+	<img src="https://user-images.githubusercontent.com/66191563/131902792-d8f92372-caa7-43ec-8b15-685aea6751e0.png" width="300px" />
 	<br/><br/>
 	<b>Um projeto do Instituto Federal do Paraná - Campus Colombo</b>
 </p>
