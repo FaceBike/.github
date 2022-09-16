@@ -17,6 +17,8 @@ O projeto visa influenciar a sociedade, principalmente no incentivo a atividades
 
 -   Ademir Prado: ademir.prado@ifpr.edu.br
 -   Eduardo Liquio Takao: eduardo.takao@ifpr.edu.br
+-   Fabio Alliguieri dos Santos Silva: fabio.alliguieri@ifpr.edu.br
+-   Antônio Eduardo Kloc: eduardo.kloc@ifpr.edu.br
 
 ### Alunos
 
