@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/66191563/204095090-9533ada7-a12b-4cf6-9b03-878c926eddaf.png"  width="150px"/>
+	<img src="https://user-images.githubusercontent.com/66191563/207751028-5e80e04c-bf4b-4906-aac1-87ce848c8196.svg"  width="350px"/>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 	<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
 </p>
 
-# Facebike
+# JoinBike
 O projeto visa influenciar a sociedade, principalmente no incentivo a atividades esportivas, tendo como objetivo a criação de um aplicativo para auxilio na prática da modalidade de ciclismo que poderá motivar mais pessoas a assumirem uma vida mais ativa e, consequentemente, saudável. Além disso, o aplicativo também poderá trazer uma maior segurança para os que já tem o ciclismo como prática constante, na medida em que juntamente com mais pessoas todos os possíveis riscos de se pedalar, tais como: assaltos, acidentes, problemas mecânicos e outros.
 
 ## Integrantes do projeto
