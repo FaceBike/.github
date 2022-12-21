@@ -27,8 +27,6 @@ O projeto visa influenciar a sociedade, principalmente no incentivo a atividades
 -   Giovanni Mioto: giovanni.mioto@gmail.com
 -   Juliano Colere Ceccon Moreira: julianocolerecmoreira@gmail.com
 -   Eduardo Faria Kruger: eduardofkruger@gmail.com
--   Alisson Vinícus Serafim: alisoonv12@gmail.com
--   Gabriel Scarante de Lima: gsdl90987@gmail.com
 
 ---
 
