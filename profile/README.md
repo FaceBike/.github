@@ -25,10 +25,12 @@ O projeto visa influenciar a sociedade, principalmente no incentivo a atividades
 
 ### Alunos
 
--   Gustavo Kopp: gustavo.kopplima@gmail.com
--   Giovanni Mioto: giovanni.mioto@gmail.com
--   Juliano Colere Ceccon Moreira: julianocolerecmoreira@gmail.com
+-   Amanda Yumi: amanda.yumi12@gmail.com
 -   Eduardo Faria Kruger: eduardofkruger@gmail.com
+-   Giovanni Mioto: giovanni.mioto@gmail.com
+-   Gustavo Kopp: gustavo.kopplima@gmail.com
+-   Juliano Colere Ceccon Moreira: julianocolerecmoreira@gmail.com
+-   Marcelo Henrique Ferreira Paes: marcelom4d@gmail.com
 
 ---
 
