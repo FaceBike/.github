@@ -30,7 +30,8 @@ O projeto visa influenciar a sociedade, principalmente no incentivo a atividades
 -   Giovanni Mioto: giovanni.mioto@gmail.com
 -   Gustavo Kopp: gustavo.kopplima@gmail.com
 -   Juliano Colere Ceccon Moreira: julianocolerecmoreira@gmail.com
--   Marcelo Henrique Ferreira Paes: marcelom4d@gmail.com
+-   Marcelo Henrique Ferreira Paes: marcelo.paes142@gmail.com
+-   Matheus Pedro Mochelim Caprioli: matheus.caprioli.pedro@gmail.com
 
 ---
 
