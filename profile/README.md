@@ -32,6 +32,7 @@ O projeto visa influenciar a sociedade, principalmente no incentivo a atividades
 -   Juliano Colere Ceccon Moreira: julianocolerecmoreira@gmail.com
 -   Marcelo Henrique Ferreira Paes: marcelo.paes142@gmail.com
 -   Matheus Pedro Mochelim Caprioli: matheus.caprioli.pedro@gmail.com
+-   Nicolas de Figueiredo Camargo Delgado: nicolasfigueiredo381@gmail.com
 
 ---
 
